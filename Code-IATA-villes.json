@@ -1,0 +1,2578 @@
+[
+  {
+    "iata": "ANF",
+    "airport": "Antofagasta (Cerro Moreno), Chili"
+  },
+  {
+    "iata": "ANG",
+    "airport": "Angoulême, France"
+  },
+  {
+    "iata": "ANK",
+    "airport": "Ankara (Esenboga), Turquie"
+  },
+  {
+    "iata": "ANR",
+    "airport": "Anvers (Deurne), Belgique"
+  },
+  {
+    "iata": "ANU",
+    "airport": "Antigua (Saint John's), Antigua"
+  },
+  {
+    "iata": "APA",
+    "airport": "Denver (Centennial Airport), USA"
+  },
+  {
+    "iata": "APW",
+    "airport": "Apia (Faleolo), Samoa"
+  },
+  {
+    "iata": "AQJ",
+    "airport": "Aqaba, Jordanie"
+  },
+  {
+    "iata": "AQP",
+    "airport": "Arequipa (Rodriguez Ballon), Pérou"
+  },
+  {
+    "iata": "ARK",
+    "airport": "Arusha, Tanzanie"
+  },
+  {
+    "iata": "ARN",
+    "airport": "Stockholm (Arlanda), Suède"
+  },
+  {
+    "iata": "ASB",
+    "airport": "Ashkhabad, Turkménistan"
+  },
+  {
+    "iata": "ASD",
+    "airport": "Andros International, Bahamas"
+  },
+  {
+    "iata": "ASM",
+    "airport": "Asmara (Yohannes IV), Erythrée"
+  },
+  {
+    "iata": "ASP",
+    "airport": "Alice Springs, Australie"
+  },
+  {
+    "iata": "ASU",
+    "airport": "Asuncion (Stroessner), Paraguay"
+  },
+  {
+    "iata": "ASW",
+    "airport": "Aswan, Egypte"
+  },
+  {
+    "iata": "ATH",
+    "airport": "Athens (Hellinikon Internat.), Grèce"
+  },
+  {
+    "iata": "ATL",
+    "airport": "Atlanta International Airport, USA"
+  },
+  {
+    "iata": "ATQ",
+    "airport": "Amritsar, Inde"
+  },
+  {
+    "iata": "ATR",
+    "airport": "Atar, Mauritanie"
+  },
+  {
+    "iata": "AUA",
+    "airport": "Oranjestad (Queen Beatrix), Aruba"
+  },
+  {
+    "iata": "AUF",
+    "airport": "Auxerre, France"
+  },
+  {
+    "iata": "AUH",
+    "airport": "Abu Dhabi (Nadia International), EAU"
+  },
+  {
+    "iata": "AUR",
+    "airport": "Aurillac, France"
+  },
+  {
+    "iata": "AVN",
+    "airport": "Avignon (Caumont), France"
+  },
+  {
+    "iata": "AWG",
+    "airport": "Washington Municipal Airport, USA"
+  },
+  {
+    "iata": "AXA",
+    "airport": "Anguilla (The Valley), Anguilla"
+  },
+  {
+    "iata": "AJA",
+    "airport": "Ajaccio (Campo Dell'Oro), France"
+  },
+  {
+    "iata": "AJN",
+    "airport": "Anjouan, Comores"
+  },
+  {
+    "iata": "AXH",
+    "airport": "Houston-Southwest Airport, USA"
+  },
+  {
+    "iata": "AYQ",
+    "airport": "Ayers Rock, Australie"
+  },
+  {
+    "iata": "AYT",
+    "airport": "Antalya, Turquie"
+  },
+  {
+    "iata": "AZI",
+    "airport": "Abu Dhabi (Bettina), EAU"
+  },
+  {
+    "iata": "ALC",
+    "airport": "Alicante, Espagne"
+  },
+  {
+    "iata": "ALG",
+    "airport": "Alger (Houari Boumediene), Algérie"
+  },
+  {
+    "iata": "ALP",
+    "airport": "Alep, Syrie"
+  },
+  {
+    "iata": "BAH",
+    "airport": "Bahrain Muharraq Internat., Bahrain"
+  },
+  {
+    "iata": "BAK",
+    "airport": "Baku Bina Internat. Airport, Azerbaijan"
+  },
+  {
+    "iata": "BBK",
+    "airport": "Kasane, Botswana"
+  },
+  {
+    "iata": "BBQ",
+    "airport": "Barbuda (Codrington), Antigua et Barbuda"
+  },
+  {
+    "iata": "BOD",
+    "airport": "Bordeaux-Mérignac, France"
+  },
+  {
+    "iata": "AMS",
+    "airport": "Amsterdam (Schiphol), Pays-Bas"
+  },
+  {
+    "iata": "BBR",
+    "airport": "Basse-Terre, Guadeloupe"
+  },
+  {
+    "iata": "BBU",
+    "airport": "Bucarest (Baneasa Airport), Roumanie"
+  },
+  {
+    "iata": "BRI",
+    "airport": "Bari (Palese Macchie), Italie"
+  },
+  {
+    "iata": "BRN",
+    "airport": "Berne, Suisse"
+  },
+  {
+    "iata": "BRQ",
+    "airport": "Brno, Rép. Tchèque"
+  },
+  {
+    "iata": "BRS",
+    "airport": "Bristol (Lulsgate), Angleterre"
+  },
+  {
+    "iata": "BRU",
+    "airport": "Bruxelles (National/Zaventem), Belgique"
+  },
+  {
+    "iata": "BRX",
+    "airport": "Barahona, République Dominicaine"
+  },
+  {
+    "iata": "BSB",
+    "airport": "Brasilia Internacional, Brésil"
+  },
+  {
+    "iata": "BSG",
+    "airport": "Bata, Guinée Equatoriale"
+  },
+  {
+    "iata": "BSK",
+    "airport": "Biskra, Algérie"
+  },
+  {
+    "iata": "BSL",
+    "airport": "Bâle/Mulhouse (Euro Airport), Suisse"
+  },
+  {
+    "iata": "BTS",
+    "airport": "Bratislava (Ivanka Airport), Slovaquie"
+  },
+  {
+    "iata": "BUD",
+    "airport": "Budapest (Ferihegyi), Hongrie"
+  },
+  {
+    "iata": "BUE",
+    "airport": "Buenos Aires, Argentine"
+  },
+  {
+    "iata": "BUH",
+    "airport": "Bucarest, Roumanie"
+  },
+  {
+    "iata": "BVA",
+    "airport": "Beauvais (Tille), France"
+  },
+  {
+    "iata": "BVB",
+    "airport": "Boa Vista, Brésil"
+  },
+  {
+    "iata": "BVC",
+    "airport": "Boavista, Cap Vert"
+  },
+  {
+    "iata": "BVE",
+    "airport": "Brive, France"
+  },
+  {
+    "iata": "BWI",
+    "airport": "Baltimore/Washington Internat., USA"
+  },
+  {
+    "iata": "BWN",
+    "airport": "Bandar Seri Begwan Internat., Brunei"
+  },
+  {
+    "iata": "BXO",
+    "airport": "Bissau (Bissallanca), Guinée Bissau"
+  },
+  {
+    "iata": "BZE",
+    "airport": "Belize International Airport, Belize"
+  },
+  {
+    "iata": "BZR",
+    "airport": "Béziers, France"
+  },
+  {
+    "iata": "BIA",
+    "airport": "Bastia (Poretta), France"
+  },
+  {
+    "iata": "BIO",
+    "airport": "Bilbao, Espagne"
+  },
+  {
+    "iata": "BIQ",
+    "airport": "Biarritz, France"
+  },
+  {
+    "iata": "CAG",
+    "airport": "Cagliari (Elmas), Italie"
+  },
+  {
+    "iata": "CAI",
+    "airport": "Le Caire International Airport, Egypte"
+  },
+  {
+    "iata": "CAN",
+    "airport": "Guangzhou (Baiyun), Chine"
+  },
+  {
+    "iata": "CAP",
+    "airport": "Cap Haitien, Haiti"
+  },
+  {
+    "iata": "CAS",
+    "airport": "Casablanca (Metropolitan), Maroc"
+  },
+  {
+    "iata": "CAY",
+    "airport": "Cayenne (Rochambeau), Guyane"
+  },
+  {
+    "iata": "CBR",
+    "airport": "Canberra, Australie"
+  },
+  {
+    "iata": "CCC",
+    "airport": "Caya Coco, Cuba"
+  },
+  {
+    "iata": "CCE",
+    "airport": "Saint Martin (Grand Case), Guadeloupe"
+  },
+  {
+    "iata": "CCF",
+    "airport": "Carcassonne, France"
+  },
+  {
+    "iata": "CCS",
+    "airport": "Caracas (Aeropuerto Intern.), Venezuela"
+  },
+  {
+    "iata": "CCU",
+    "airport": "Calcutta (Dum Dum Internat.), Inde"
+  },
+  {
+    "iata": "CDG",
+    "airport": "Paris (Charles de Gaulle), France"
+  },
+  {
+    "iata": "CEB",
+    "airport": "Cebu, Philippines"
+  },
+  {
+    "iata": "CEI",
+    "airport": "Chiang Rai Internat. Airport, Thailande"
+  },
+  {
+    "iata": "CEQ",
+    "airport": "Cannes (Mandelieu), France"
+  },
+  {
+    "iata": "CER",
+    "airport": "Cherbourg (Maupertus), France"
+  },
+  {
+    "iata": "BNJ",
+    "airport": "Bonn (Wahn), Allemagne"
+  },
+  {
+    "iata": "CFE",
+    "airport": "Clermont-Ferrand (Aulnat), France"
+  },
+  {
+    "iata": "CFG",
+    "airport": "Cienfuegos, Cuba"
+  },
+  {
+    "iata": "CFR",
+    "airport": "Caen (Carpiquet), France"
+  },
+  {
+    "iata": "CGH",
+    "airport": "Sao Paulo (Congonhas), Brésil"
+  },
+  {
+    "iata": "BOH",
+    "airport": "Bournemouth, Angleterre"
+  },
+  {
+    "iata": "CGK",
+    "airport": "Jakarta (Soekarno-Hatta Int'l), Indonésie"
+  },
+  {
+    "iata": "CGN",
+    "airport": "Cologne/Bonn, Allemagne"
+  },
+  {
+    "iata": "CGO",
+    "airport": "Zhengzhou, Chine"
+  },
+  {
+    "iata": "CGP",
+    "airport": "Chittagong (Patenga), Bangladesh"
+  },
+  {
+    "iata": "CGT",
+    "airport": "Chinguitti, Mauritanie"
+  },
+  {
+    "iata": "CGX",
+    "airport": "Chicago (Meigs Airport), USA"
+  },
+  {
+    "iata": "BQE",
+    "airport": "Bubaque, Guinée Bissau"
+  },
+  {
+    "iata": "CHC",
+    "airport": "Christchurch Int'l Airport, Nlle-Zélande"
+  },
+  {
+    "iata": "CHH",
+    "airport": "Chachapoyas, Pérou"
+  },
+  {
+    "iata": "CHI",
+    "airport": "Chicago (Metropolitan Area), USA"
+  },
+  {
+    "iata": "CHR",
+    "airport": "Châteauroux (Deols), France"
+  },
+  {
+    "iata": "DKR",
+    "airport": "Dakar (Yoff), Sénégal"
+  },
+  {
+    "iata": "DLA",
+    "airport": "Douala, Cameroun"
+  },
+  {
+    "iata": "DLM",
+    "airport": "Dalaman, Turquie"
+  },
+  {
+    "iata": "DME",
+    "airport": "Moscow (Domodemovo), Russie"
+  },
+  {
+    "iata": "DNK",
+    "airport": "Dnipropetrovsk, Ukraine"
+  },
+  {
+    "iata": "DNR",
+    "airport": "Dinard (St. Malo), France"
+  },
+  {
+    "iata": "DOH",
+    "airport": "Doha, Qatar"
+  },
+  {
+    "iata": "DOL",
+    "airport": "Deauville (Saint Gatien), France"
+  },
+  {
+    "iata": "DPS",
+    "airport": "Denpasar (Ngurah Rai), Indonésie"
+  },
+  {
+    "iata": "DRS",
+    "airport": "Dresde, Allemagne"
+  },
+  {
+    "iata": "DRW",
+    "airport": "Darwin, Australie"
+  },
+  {
+    "iata": "DSA",
+    "airport": "Doncaster/Sheffield, Angleterre"
+  },
+  {
+    "iata": "DSD",
+    "airport": "La Desirade, Guadeloupe"
+  },
+  {
+    "iata": "DTH",
+    "airport": "Death Valley, USA"
+  },
+  {
+    "iata": "DTM",
+    "airport": "Dortmund, Allemagne"
+  },
+  {
+    "iata": "DTT",
+    "airport": "Detroit (Metropolitan Area), USA"
+  },
+  {
+    "iata": "DTW",
+    "airport": "Detroit (Wayne County Airport), USA"
+  },
+  {
+    "iata": "DUB",
+    "airport": "Dublin, Irlande"
+  },
+  {
+    "iata": "DUR",
+    "airport": "Durban (L. Botha), Afrique du Sud"
+  },
+  {
+    "iata": "CTA",
+    "airport": "Catane (Fontanarossa), Italie"
+  },
+  {
+    "iata": "DUS",
+    "airport": "Dusseldorf (Rhein-Ruhr), Allemagne"
+  },
+  {
+    "iata": "DWH",
+    "airport": "Houston (D. W. Hooks), USA"
+  },
+  {
+    "iata": "DWS",
+    "airport": "Orlando (Lake Buena Vista), USA"
+  },
+  {
+    "iata": "DXB",
+    "airport": "Dubai International Airport, EAU"
+  },
+  {
+    "iata": "DYU",
+    "airport": "Dushanbe, Tajikistan"
+  },
+  {
+    "iata": "DZA",
+    "airport": "Dzaoudzi (Pamandzi), Mayotte"
+  },
+  {
+    "iata": "CUR",
+    "airport": "Curacao (Hato), Antilles Néerlandaises"
+  },
+  {
+    "iata": "CUZ",
+    "airport": "Cuzco, Pérou"
+  },
+  {
+    "iata": "CWL",
+    "airport": "Cardiff (Rhoose), Pays de Galles"
+  },
+  {
+    "iata": "EAP",
+    "airport": "Bâle/Mulhouse, Suisse/France"
+  },
+  {
+    "iata": "EAS",
+    "airport": "San Sebastian, Espagne"
+  },
+  {
+    "iata": "EBB",
+    "airport": "Kampala (Entebbe), Ouganda"
+  },
+  {
+    "iata": "CZW",
+    "airport": "Czestochowa, Pologne"
+  },
+  {
+    "iata": "EBU",
+    "airport": "Saint-Etienne (Boutheon), France"
+  },
+  {
+    "iata": "EDI",
+    "airport": "Edinburgh, Ecosse"
+  },
+  {
+    "iata": "EFD",
+    "airport": "Houston (Ellington Field), USA"
+  },
+  {
+    "iata": "EIN",
+    "airport": "Eindhoven, Pays-Bas"
+  },
+  {
+    "iata": "ELS",
+    "airport": "East London, Afrique du Sud"
+  },
+  {
+    "iata": "EMA",
+    "airport": "East Midlands (Derby), Angleterre"
+  },
+  {
+    "iata": "ENC",
+    "airport": "Nancy (Essey), France"
+  },
+  {
+    "iata": "ERS",
+    "airport": "Windhoek (Eros), Namibie"
+  },
+  {
+    "iata": "ESB",
+    "airport": "Ankara (Esenboga), Turquie"
+  },
+  {
+    "iata": "ETZ",
+    "airport": "Metz/Nancy (Lorraine), France"
+  },
+  {
+    "iata": "EVN",
+    "airport": "Yerevan (Zvartnots), Armenie"
+  },
+  {
+    "iata": "EXT",
+    "airport": "Exeter, Angleterre"
+  },
+  {
+    "iata": "EZE",
+    "airport": "Buenos Aires (Ezeiza), Argentine"
+  },
+  {
+    "iata": "DDM",
+    "airport": "Dodoma, Tanzanie"
+  },
+  {
+    "iata": "DEL",
+    "airport": "Delhi (Indira Gandhi Internat), Inde"
+  },
+  {
+    "iata": "DEN",
+    "airport": "Denver (Stapleton Internat.), USA"
+  },
+  {
+    "iata": "FAO",
+    "airport": "Faro, Portugal"
+  },
+  {
+    "iata": "FBU",
+    "airport": "Oslo (Fornebu), Norvège"
+  },
+  {
+    "iata": "FCO",
+    "airport": "Rome (L. de Vinci/Fiumicino), Italie"
+  },
+  {
+    "iata": "DHM",
+    "airport": "Dharamsala, Inde"
+  },
+  {
+    "iata": "FDF",
+    "airport": "Fort-de-France (Le Lamentin), Martinique"
+  },
+  {
+    "iata": "FDH",
+    "airport": "Friedrichshafen (Lowenthal), Allemagne"
+  },
+  {
+    "iata": "FEZ",
+    "airport": "Fès (Saiss), Maroc"
+  },
+  {
+    "iata": "FGI",
+    "airport": "Apia (Fabali Si), Samoa"
+  },
+  {
+    "iata": "FIH",
+    "airport": "Kinshasa (Ndjili), RDC"
+  },
+  {
+    "iata": "FJR",
+    "airport": "Fujairah International Airport, EAU"
+  },
+  {
+    "iata": "FKB",
+    "airport": "Karlsruhe/Baden, Allemagne"
+  },
+  {
+    "iata": "FLR",
+    "airport": "Florence (Peretola), Italie"
+  },
+  {
+    "iata": "HAH",
+    "airport": "Moroni (Hahaya), Comores"
+  },
+  {
+    "iata": "HAJ",
+    "airport": "Hannovre (Langenhagen), Allemagne"
+  },
+  {
+    "iata": "HAM",
+    "airport": "Hamburg (Fuhlsbuttel), Allemagne"
+  },
+  {
+    "iata": "FNJ",
+    "airport": "Pyongyang, Corée du Nord"
+  },
+  {
+    "iata": "HAN",
+    "airport": "Hanoi (Noi-Bai), Viêtnam"
+  },
+  {
+    "iata": "HAV",
+    "airport": "La Havane (Jose Marti), Cuba"
+  },
+  {
+    "iata": "HBA",
+    "airport": "Hobart, Tasmania, Australie"
+  },
+  {
+    "iata": "HEL",
+    "airport": "Helsinki (Vantaa), Finlande"
+  },
+  {
+    "iata": "HEM",
+    "airport": "Helsinki (Malmi), Finlande"
+  },
+  {
+    "iata": "HER",
+    "airport": "Heraklion (Iraklion), Grèce"
+  },
+  {
+    "iata": "HFA",
+    "airport": "Haifa, Israël"
+  },
+  {
+    "iata": "HGS",
+    "airport": "Freetown (Hastings), Sierra Leone"
+  },
+  {
+    "iata": "HHN",
+    "airport": "Hahn, Allemagne"
+  },
+  {
+    "iata": "HIR",
+    "airport": "Honiara, (Henderson), Iles Salomon"
+  },
+  {
+    "iata": "HIX",
+    "airport": "Hiva Oa, Polynésie Française"
+  },
+  {
+    "iata": "HKG",
+    "airport": "Hong Kong, Int'l Airport, Hong Kong"
+  },
+  {
+    "iata": "HLP",
+    "airport": "Jakarta (Halim Perdanakusuma), Indonésie"
+  },
+  {
+    "iata": "HND",
+    "airport": "Tokyo (Haneda), Japon"
+  },
+  {
+    "iata": "HNL",
+    "airport": "Honolulu International Airport, Hawaii"
+  },
+  {
+    "iata": "HOG",
+    "airport": "Holguin, Cuba"
+  },
+  {
+    "iata": "HOR",
+    "airport": "Horta (Faial Island), Açores"
+  },
+  {
+    "iata": "HOU",
+    "airport": "Houston (William P. Hobby Airport), USA"
+  },
+  {
+    "iata": "HRE",
+    "airport": "Harare, Zimbabwe"
+  },
+  {
+    "iata": "HRG",
+    "airport": "Hurghada, Egypte"
+  },
+  {
+    "iata": "HSH",
+    "airport": "Las Vegas (Henderson Sky Harbor), USA"
+  },
+  {
+    "iata": "HTB",
+    "airport": "Terre de Bas, Guadeloupe"
+  },
+  {
+    "iata": "HYD",
+    "airport": "Hyderabad, Inde"
+  },
+  {
+    "iata": "GEA",
+    "airport": "Noumea, Nouvelle Caledonie"
+  },
+  {
+    "iata": "GEN",
+    "airport": "Oslo (Gardermoen), Norvège"
+  },
+  {
+    "iata": "GEO",
+    "airport": "Georgetown (Timehri), Guyana"
+  },
+  {
+    "iata": "IAD",
+    "airport": "Washington Dulles International, USA"
+  },
+  {
+    "iata": "IAH",
+    "airport": "Houston Intercontinental Airport, USA"
+  },
+  {
+    "iata": "IDY",
+    "airport": "Ile d'Yeu, France"
+  },
+  {
+    "iata": "IEV",
+    "airport": "Kiev (Zhulyany), Ukraine"
+  },
+  {
+    "iata": "IFN",
+    "airport": "Isfahan, Iran"
+  },
+  {
+    "iata": "IGR",
+    "airport": "Iguazu (Cataratas del Iguazu), Argentine"
+  },
+  {
+    "iata": "IGU",
+    "airport": "Foz do Iguacu (Cataratas), Brésil"
+  },
+  {
+    "iata": "IKT",
+    "airport": "Irkutsk, Russie"
+  },
+  {
+    "iata": "ILP",
+    "airport": "Ile des Pins, Nlle Caledonie"
+  },
+  {
+    "iata": "INN",
+    "airport": "Innsbruck (Kranebitten), Austriche"
+  },
+  {
+    "iata": "GPS",
+    "airport": "Galapagos Islands, Equateur"
+  },
+  {
+    "iata": "INV",
+    "airport": "Inverness, Ecosse"
+  },
+  {
+    "iata": "IOM",
+    "airport": "Isle of Man (Ronaldsway), Angleterre"
+  },
+  {
+    "iata": "IQT",
+    "airport": "Iquitos (F.S. Vigneta), Pérou"
+  },
+  {
+    "iata": "IST",
+    "airport": "Istanbul (Ataturk Internat.), Turquie"
+  },
+  {
+    "iata": "ITM",
+    "airport": "Osaka (Itami Airport), Japon"
+  },
+  {
+    "iata": "IXL",
+    "airport": "Leh, Inde"
+  },
+  {
+    "iata": "IZM",
+    "airport": "Izmir (A. Menderes), Turquie"
+  },
+  {
+    "iata": "GUA",
+    "airport": "Guatemala City (La Aurora), Guatemala"
+  },
+  {
+    "iata": "GUM",
+    "airport": "Guam, Guam"
+  },
+  {
+    "iata": "GVA",
+    "airport": "Genève (Genève-Cointrin), Suisse"
+  },
+  {
+    "iata": "JAI",
+    "airport": "Jaipur, Inde"
+  },
+  {
+    "iata": "JAO",
+    "airport": "Atlanta (Beaver Ruin Airport), USA"
+  },
+  {
+    "iata": "JDH",
+    "airport": "Jodhpur, Inde"
+  },
+  {
+    "iata": "JED",
+    "airport": "Jeddah (King Abdul Aziz), Arabie Saoudite"
+  },
+  {
+    "iata": "JFK",
+    "airport": "New York (John F. Kennedy), USA"
+  },
+  {
+    "iata": "LCG",
+    "airport": "La Coruna, Espagne"
+  },
+  {
+    "iata": "LCY",
+    "airport": "Londres (City Airport), Angleterre"
+  },
+  {
+    "iata": "LDE",
+    "airport": "Lourdes/Tarbes (Ossun), France"
+  },
+  {
+    "iata": "JHB",
+    "airport": "Johor Bahru, Malaisie"
+  },
+  {
+    "iata": "LED",
+    "airport": "St. Petersburg (Pulkowo-2), Russie"
+  },
+  {
+    "iata": "LEH",
+    "airport": "Le Havre (Octeville), France"
+  },
+  {
+    "iata": "JKT",
+    "airport": "Jakarta (Metropolitan Area), Indonésie"
+  },
+  {
+    "iata": "LEJ",
+    "airport": "Leipzig (Schkeuditz), Allemagne"
+  },
+  {
+    "iata": "LGA",
+    "airport": "New York (La Guardia Airport), USA"
+  },
+  {
+    "iata": "LGG",
+    "airport": "Liege (Bierset), Belgique"
+  },
+  {
+    "iata": "LGK",
+    "airport": "Langkawi, Malaisie"
+  },
+  {
+    "iata": "LGW",
+    "airport": "Londres (Gatwick), Angleterre"
+  },
+  {
+    "iata": "LHE",
+    "airport": "Lahore, Pakistan"
+  },
+  {
+    "iata": "LHR",
+    "airport": "Londres (Heathrow), Angleterre"
+  },
+  {
+    "iata": "LIG",
+    "airport": "Limoges (Bellegarde), France"
+  },
+  {
+    "iata": "LIL",
+    "airport": "Lille (Lesquin), France"
+  },
+  {
+    "iata": "LIM",
+    "airport": "Lima (J. Chavez Internacional), Pérou"
+  },
+  {
+    "iata": "LIS",
+    "airport": "Lisbone (Portela de Sacavem), Portugal"
+  },
+  {
+    "iata": "LJU",
+    "airport": "Ljubljana (Brnik), Slovénie"
+  },
+  {
+    "iata": "LLI",
+    "airport": "Lalibella, Ethiopie"
+  },
+  {
+    "iata": "LLW",
+    "airport": "Lilongwe (Kamuzu Internat.), Malawi"
+  },
+  {
+    "iata": "LOH",
+    "airport": "Loja, Equateur"
+  },
+  {
+    "iata": "LON",
+    "airport": "Londres (Metropolitan Area), Angleterre"
+  },
+  {
+    "iata": "LOS",
+    "airport": "Lagos (Murtala Muhammed), Nigeria"
+  },
+  {
+    "iata": "LPA",
+    "airport": "Las Palmas/Gran Canaria, Canaries"
+  },
+  {
+    "iata": "LPB",
+    "airport": "La Paz (El Alto), Bolivie"
+  },
+  {
+    "iata": "LPL",
+    "airport": "Liverpool (Speke Airport), Angleterre"
+  },
+  {
+    "iata": "LPQ",
+    "airport": "Luang Prabang, Laos"
+  },
+  {
+    "iata": "LPY",
+    "airport": "Le Puy, France"
+  },
+  {
+    "iata": "LRH",
+    "airport": "La Rochelle (Laleu), France"
+  },
+  {
+    "iata": "LRM",
+    "airport": "La Romana, République Dominicaine"
+  },
+  {
+    "iata": "KMG",
+    "airport": "Kunming (Wujlaba), Chine"
+  },
+  {
+    "iata": "LRT",
+    "airport": "Lorient (Lann-Bihouet), France"
+  },
+  {
+    "iata": "LSI",
+    "airport": "Lerwick, Shetland"
+  },
+  {
+    "iata": "LSS",
+    "airport": "Les Saintes, Guadeloupe"
+  },
+  {
+    "iata": "LTD",
+    "airport": "Ghadames, Libye"
+  },
+  {
+    "iata": "LTN",
+    "airport": "Luton Airport, Angleterre"
+  },
+  {
+    "iata": "LUD",
+    "airport": "Lüderitz, Namibie"
+  },
+  {
+    "iata": "LUG",
+    "airport": "Lugano (Agno), Suisse"
+  },
+  {
+    "iata": "LUN",
+    "airport": "Lusaka Internat. Airport, Zambie"
+  },
+  {
+    "iata": "LUX",
+    "airport": "Luxembourg (Findel), Luxembourg"
+  },
+  {
+    "iata": "LVS",
+    "airport": "Las Vegas Municipal Airport, USA"
+  },
+  {
+    "iata": "LXR",
+    "airport": "Luxor, Égypte"
+  },
+  {
+    "iata": "LYN",
+    "airport": "Lyon (Bron), France"
+  },
+  {
+    "iata": "LYR",
+    "airport": "Svalbard (Longyearbyen), Norvège"
+  },
+  {
+    "iata": "LYS",
+    "airport": "Lyon (St Exupery), France"
+  },
+  {
+    "iata": "LAU",
+    "airport": "Lamu (Mwana), Kenya"
+  },
+  {
+    "iata": "LAX",
+    "airport": "Los Angeles Internat. Airport, USA"
+  },
+  {
+    "iata": "LBA",
+    "airport": "Leeds/Bradford, Angleterre"
+  },
+  {
+    "iata": "MAA",
+    "airport": "Madras (Meenambakkam), Inde"
+  },
+  {
+    "iata": "MAD",
+    "airport": "Madrid (Barajas), Espagne"
+  },
+  {
+    "iata": "MAH",
+    "airport": "Mahon (Menorca), Baleéares"
+  },
+  {
+    "iata": "MAN",
+    "airport": "Manchester (Ringway Int.), Angleterre"
+  },
+  {
+    "iata": "MAO",
+    "airport": "Manaus (Eduardo Gomes), Brésil"
+  },
+  {
+    "iata": "MBA",
+    "airport": "Mombasa (Moi Internat.), Kenya"
+  },
+  {
+    "iata": "MBJ",
+    "airport": "Montego Bay (Sangster), Jamaique"
+  },
+  {
+    "iata": "MCO",
+    "airport": "Orlando International Airport, USA"
+  },
+  {
+    "iata": "MCP",
+    "airport": "Macapa,Brésil"
+  },
+  {
+    "iata": "MCT",
+    "airport": "Muscat (Seeb), Oman"
+  },
+  {
+    "iata": "MRS",
+    "airport": "Marseille Provence, France"
+  },
+  {
+    "iata": "MUC",
+    "airport": "Munich (Franz Josef Strauss), Allemagne"
+  },
+  {
+    "iata": "MEL",
+    "airport": "Melbourne (Tullamarine), Australie"
+  },
+  {
+    "iata": "MXP",
+    "airport": "Milan (Malpensa), Italie"
+  },
+  {
+    "iata": "SIN",
+    "airport": "Singapour (Changi), Singapour"
+  },
+  {
+    "iata": "TPE",
+    "airport": "Taipei (Taoyuan), Taiwan"
+  },
+  {
+    "iata": "ICN",
+    "airport": "Seoul (Incheon), Corée du Sud"
+  },
+  {
+    "iata": "KUL",
+    "airport": "Kuala Lumpur International, Malaisie"
+  },
+  {
+    "iata": "BKK",
+    "airport": "Bangkok (Suvarnabhumi), Thaïlande"
+  },
+  {
+    "iata": "PEK",
+    "airport": "Beijing (Capital), Chine"
+  },
+  {
+    "iata": "NAN",
+    "airport": "Nadi, Fidji"
+  },
+  {
+    "iata": "NAP",
+    "airport": "Naples (Capodichino), Italie"
+  },
+  {
+    "iata": "NAS",
+    "airport": "Nassau, Bahamas"
+  },
+  {
+    "iata": "NAT",
+    "airport": "Natal, Brésil"
+  },
+  {
+    "iata": "NBL",
+    "airport": "San Blas, Panama"
+  },
+  {
+    "iata": "NBO",
+    "airport": "Nairobi (Jomo Kenyatta), Kenya"
+  },
+  {
+    "iata": "NCE",
+    "airport": "Nice (Côte d'Azur), France"
+  },
+  {
+    "iata": "NCL",
+    "airport": "Newcastle, Angleterre"
+  },
+  {
+    "iata": "NDJ",
+    "airport": "N'Djamena, Tchad"
+  },
+  {
+    "iata": "NEW",
+    "airport": "New Orleans (Lakefront Airport), USA"
+  },
+  {
+    "iata": "NGO",
+    "airport": "Nagoya (Komaki), Japon"
+  },
+  {
+    "iata": "NIC",
+    "airport": "Nicosia, Chypre"
+  },
+  {
+    "iata": "NIM",
+    "airport": "Niamey, Niger"
+  },
+  {
+    "iata": "NKC",
+    "airport": "Nouakchott, Mauritanie"
+  },
+  {
+    "iata": "MID",
+    "airport": "Merida (M. C. Rejon), Mexique"
+  },
+  {
+    "iata": "NLO",
+    "airport": "Kinshasa (N'Dolo), RDC"
+  },
+  {
+    "iata": "MIR",
+    "airport": "Monastir (Skanes), Tunisie"
+  },
+  {
+    "iata": "NOS",
+    "airport": "Nossi-Be (Fascene), Madagascar"
+  },
+  {
+    "iata": "NOU",
+    "airport": "Noumea (La Tontouta), Nlle Caledonie"
+  },
+  {
+    "iata": "NPS",
+    "airport": "Honolulu (Ford Island), Hawaii"
+  },
+  {
+    "iata": "NRT",
+    "airport": "Tokyo (Narita), Japon"
+  },
+  {
+    "iata": "NSI",
+    "airport": "Yaounde (Nsimalen Internat.), Cameroun"
+  },
+  {
+    "iata": "NTE",
+    "airport": "Nantes (Château Bougon), France"
+  },
+  {
+    "iata": "MMA",
+    "airport": "Malmö, Suède"
+  },
+  {
+    "iata": "NTO",
+    "airport": "Santo Antao, Cape Verde"
+  },
+  {
+    "iata": "NUE",
+    "airport": "Nurenberg, Allemagne"
+  },
+  {
+    "iata": "NWA",
+    "airport": "Moheli, Comores"
+  },
+  {
+    "iata": "NYC",
+    "airport": "New York (Metropolitan Area), USA"
+  },
+  {
+    "iata": "MNL",
+    "airport": "Manille (Ninoy Aquino), Philippines"
+  },
+  {
+    "iata": "MOF",
+    "airport": "Maumere, Indonésie"
+  },
+  {
+    "iata": "MOW",
+    "airport": "Moscou (Metropolitan Area), Russie"
+  },
+  {
+    "iata": "OAK",
+    "airport": "Oakland International Airport, USA"
+  },
+  {
+    "iata": "OCO",
+    "airport": "San Jose (El Coco), Costa Rica"
+  },
+  {
+    "iata": "OCW",
+    "airport": "Washington (Warren Field), USA"
+  },
+  {
+    "iata": "ODB",
+    "airport": "Cordou (San Jeronimo), Espagne"
+  },
+  {
+    "iata": "ODE",
+    "airport": "Odense (Beldringe), Danemark"
+  },
+  {
+    "iata": "ODS",
+    "airport": "Odessa (Tsentrainy), Ukraine"
+  },
+  {
+    "iata": "OHD",
+    "airport": "Ohrid, Macédoine"
+  },
+  {
+    "iata": "OKD",
+    "airport": "Sapporo (Okadama), Japon"
+  },
+  {
+    "iata": "OLB",
+    "airport": "Olbia (Costa Smeralda), Italie"
+  },
+  {
+    "iata": "OPF",
+    "airport": "Miami (Opa Locka Airport), USA"
+  },
+  {
+    "iata": "OPO",
+    "airport": "Porto (Pedras Rubras), Portugal"
+  },
+  {
+    "iata": "ORA",
+    "airport": "Oran, Algérie"
+  },
+  {
+    "iata": "ORD",
+    "airport": "Chicago (O'Hare International), USA"
+  },
+  {
+    "iata": "MSU",
+    "airport": "Maseru (Moshoeshoe), Lesotho"
+  },
+  {
+    "iata": "ORK",
+    "airport": "Cork, Irlande"
+  },
+  {
+    "iata": "ORN",
+    "airport": "Oran (Es Senia), Algérie"
+  },
+  {
+    "iata": "ORY",
+    "airport": "Paris (Orly), France"
+  },
+  {
+    "iata": "OSA",
+    "airport": "Osaka (Metropolitan Area), Japon"
+  },
+  {
+    "iata": "OSL",
+    "airport": "Oslo (Metropolitan Area), Norvège"
+  },
+  {
+    "iata": "OSS",
+    "airport": "Osh, Kyrgyzstan"
+  },
+  {
+    "iata": "OST",
+    "airport": "Ostende, Belgique"
+  },
+  {
+    "iata": "OTP",
+    "airport": "Bucarest (Otopeni), Roumanie"
+  },
+  {
+    "iata": "OUA",
+    "airport": "Ouagadougou, Burkina Faso"
+  },
+  {
+    "iata": "OUD",
+    "airport": "Oujda (Les Angades), Maroc"
+  },
+  {
+    "iata": "OVD",
+    "airport": "Oviedo (Asturias), Espagne"
+  },
+  {
+    "iata": "OZZ",
+    "airport": "Ouarzazate, Maroc"
+  },
+  {
+    "iata": "PUF",
+    "airport": "Pau (Pont Long Uzein), France"
+  },
+  {
+    "iata": "PUS",
+    "airport": "Pusan (Kimhae), Corée du Sud"
+  },
+  {
+    "iata": "PVG",
+    "airport": "Shanghai (Pu Dong), Chine"
+  },
+  {
+    "iata": "PVR",
+    "airport": "Puerto Vallarta (G. D. Ordaz), Mexique"
+  },
+  {
+    "iata": "PYX",
+    "airport": "Pattaya, Thaïlande"
+  },
+  {
+    "iata": "PZU",
+    "airport": "Port Soudan, Soudan"
+  },
+  {
+    "iata": "PBC",
+    "airport": "Puebla, Mexique"
+  },
+  {
+    "iata": "PBH",
+    "airport": "Paro, Bhoutan"
+  },
+  {
+    "iata": "PBM",
+    "airport": "Paramaribo (J. A. Pengel), Suriname"
+  },
+  {
+    "iata": "QDU",
+    "airport": "Dusseldorf, Allemagne"
+  },
+  {
+    "iata": "QDV",
+    "airport": "Denver (Metropolitan Area), USA"
+  },
+  {
+    "iata": "QGN",
+    "airport": "Tarragona (Reus), Espagne"
+  },
+  {
+    "iata": "QKA",
+    "airport": "Karlsruhe (Forchheim), Allemagne"
+  },
+  {
+    "iata": "QLA",
+    "airport": "Los Angeles (Metropolitan Area), USA"
+  },
+  {
+    "iata": "QLI",
+    "airport": "Limassol, Chypre"
+  },
+  {
+    "iata": "QLJ",
+    "airport": "Lucerne, Suisse"
+  },
+  {
+    "iata": "QLS",
+    "airport": "Lausanne (La Blecherette), Suisse"
+  },
+  {
+    "iata": "QPA",
+    "airport": "Padou, Italie"
+  },
+  {
+    "iata": "QPG",
+    "airport": "Singapour (Paya Lebar), Singapour"
+  },
+  {
+    "iata": "QRA",
+    "airport": "Jo'burg (Randgermiston), Af. du Sud"
+  },
+  {
+    "iata": "QSF",
+    "airport": "San Francisco (Metropolitan Area), USA"
+  },
+  {
+    "iata": "QSM",
+    "airport": "St. Maarten, Antilles Néerlandaises"
+  },
+  {
+    "iata": "QSO",
+    "airport": "Sousse, Tunisie"
+  },
+  {
+    "iata": "QTW",
+    "airport": "Taejon, Corée du Sud"
+  },
+  {
+    "iata": "PHW",
+    "airport": "Phalaborwa, Afrique du Sud"
+  },
+  {
+    "iata": "PHX",
+    "airport": "Phoenix (Sky Harbor International), USA"
+  },
+  {
+    "iata": "PIS",
+    "airport": "Poitiers (Biard), France"
+  },
+  {
+    "iata": "RAI",
+    "airport": "Praia, Sao Tiago, Cape Verde"
+  },
+  {
+    "iata": "RAK",
+    "airport": "Marrakech (Menara), Maroc"
+  },
+  {
+    "iata": "RBA",
+    "airport": "Rabat (Sale), Maroc"
+  },
+  {
+    "iata": "RBD",
+    "airport": "Dallas (Redbird Airport), USA"
+  },
+  {
+    "iata": "PMC",
+    "airport": "Puerto Montt (El Tepual), Chili"
+  },
+  {
+    "iata": "RDU",
+    "airport": "Raleigh-Durham (Int'l Airport), USA"
+  },
+  {
+    "iata": "PMI",
+    "airport": "Palma de Mallorca, Espagne"
+  },
+  {
+    "iata": "RDZ",
+    "airport": "Rodez, France"
+  },
+  {
+    "iata": "REK",
+    "airport": "Reykjavik, Islande"
+  },
+  {
+    "iata": "REP",
+    "airport": "Siem Reap (Angkor), Cambodge"
+  },
+  {
+    "iata": "RGN",
+    "airport": "Yangoon (Mingaladon), Myanmar"
+  },
+  {
+    "iata": "RHE",
+    "airport": "Reims (Champagne), France"
+  },
+  {
+    "iata": "RHO",
+    "airport": "Rhodes (Diagoras/Maritsa), Grèce"
+  },
+  {
+    "iata": "RIO",
+    "airport": "Rio de Janeiro (Metropolitan Area), Brésil"
+  },
+  {
+    "iata": "RIX",
+    "airport": "Riga (Spilve), Laettonie"
+  },
+  {
+    "iata": "RJK",
+    "airport": "Rijeka, Croatie"
+  },
+  {
+    "iata": "RKE",
+    "airport": "Copenhagen (Roskilde), Danemark"
+  },
+  {
+    "iata": "RML",
+    "airport": "Colombo, Sri Lanka"
+  },
+  {
+    "iata": "POP",
+    "airport": "Puerto Plata, République Dominicaine"
+  },
+  {
+    "iata": "RNS",
+    "airport": "Rennes (Saint-Jacques), France"
+  },
+  {
+    "iata": "ROB",
+    "airport": "Monrovia (Roberts Field), Liberia"
+  },
+  {
+    "iata": "ROM",
+    "airport": "Rome (Metropolitan Area), Italie"
+  },
+  {
+    "iata": "RSC",
+    "airport": "Riga (Skulte), Lettonie"
+  },
+  {
+    "iata": "RSE",
+    "airport": "Sydney (Aurose Bay), Australie"
+  },
+  {
+    "iata": "RTB",
+    "airport": "Roatan, Honduras"
+  },
+  {
+    "iata": "PRI",
+    "airport": "Praslin, Seychelles"
+  },
+  {
+    "iata": "RTM",
+    "airport": "Rotterdam, Pays-Bas"
+  },
+  {
+    "iata": "RUH",
+    "airport": "Riyadh (King Khalid), Arabie Saoudite"
+  },
+  {
+    "iata": "PSA",
+    "airport": "Pise (Galilei), Italie"
+  },
+  {
+    "iata": "RUN",
+    "airport": "Saint-Denis (Gillot), Réunion"
+  },
+  {
+    "iata": "RUY",
+    "airport": "Copan, Honduras"
+  },
+  {
+    "iata": "RVN",
+    "airport": "Rovaniemi, Finlande"
+  },
+  {
+    "iata": "RWP",
+    "airport": "Rawalpindi, Pakistan"
+  },
+  {
+    "iata": "SSG",
+    "airport": "Malabo, Guinée Equatoriale"
+  },
+  {
+    "iata": "STL",
+    "airport": "St. Louis International Airport, USA"
+  },
+  {
+    "iata": "STM",
+    "airport": "Santarem, Brésil"
+  },
+  {
+    "iata": "STN",
+    "airport": "Londres (Stansted), Angleterre"
+  },
+  {
+    "iata": "STO",
+    "airport": "Stockholm (Metropolitan Area), Suède"
+  },
+  {
+    "iata": "STR",
+    "airport": "Stuttgart (Echterdingen), Allemagne"
+  },
+  {
+    "iata": "SUB",
+    "airport": "Surabaya (Juanda), Indonésie"
+  },
+  {
+    "iata": "SUV",
+    "airport": "Suva (Nausori International), Fidji"
+  },
+  {
+    "iata": "SVG",
+    "airport": "Stavanger (Sola), Norvège"
+  },
+  {
+    "iata": "SVO",
+    "airport": "Moscou (Cheremetievo 2), Russie"
+  },
+  {
+    "iata": "SVQ",
+    "airport": "Seville (San Pablo), Espagne"
+  },
+  {
+    "iata": "SWK",
+    "airport": "Milan (Segrate), Italie"
+  },
+  {
+    "iata": "SWP",
+    "airport": "Swakopmund, Namibie"
+  },
+  {
+    "iata": "SXB",
+    "airport": "Strasbourg (Entzheim), France"
+  },
+  {
+    "iata": "SXF",
+    "airport": "Berlin (Schoenefeld), Allemagne"
+  },
+  {
+    "iata": "SXM",
+    "airport": "St. Maarten (Princ. Juliana), Ant. Néerl."
+  },
+  {
+    "iata": "SYD",
+    "airport": "Sydney (Kingsford Smith), Australie"
+  },
+  {
+    "iata": "SYZ",
+    "airport": "Shiraz, Iran"
+  },
+  {
+    "iata": "SZG",
+    "airport": "Salzburg, Autriche"
+  },
+  {
+    "iata": "SZX",
+    "airport": "Shenzhen, Chine"
+  },
+  {
+    "iata": "SEZ",
+    "airport": "Mahé (Seychelles Int'l), Seychelles"
+  },
+  {
+    "iata": "SFA",
+    "airport": "Sfax (Thyna), Tunisie"
+  },
+  {
+    "iata": "SFO",
+    "airport": "San Francisco Internat. Airport, USA"
+  },
+  {
+    "iata": "TAB",
+    "airport": "Tobago (Scarborough), Trinidad et Tobago"
+  },
+  {
+    "iata": "TAH",
+    "airport": "Tanna Island, Vanuatu"
+  },
+  {
+    "iata": "TAS",
+    "airport": "Tashkent (Yuzhny), Ouzbékistan"
+  },
+  {
+    "iata": "TBS",
+    "airport": "Tbilisi (Novoalexeyevka), Georgie"
+  },
+  {
+    "iata": "TBZ",
+    "airport": "Tabriz, Iran"
+  },
+  {
+    "iata": "TCI",
+    "airport": "Ténérife, Canaries"
+  },
+  {
+    "iata": "TDD",
+    "airport": "Trinidad, Bolivie"
+  },
+  {
+    "iata": "TER",
+    "airport": "Terceira (Aeroporto das Lajes), Açores"
+  },
+  {
+    "iata": "TFN",
+    "airport": "Ténérife (Los Rodeos), Canaries"
+  },
+  {
+    "iata": "TFR",
+    "airport": "Tarbes, France"
+  },
+  {
+    "iata": "TFS",
+    "airport": "Ténérife (Sur Reina Sofia), Canaries"
+  },
+  {
+    "iata": "TGU",
+    "airport": "Tegucigalpa (Toncontin), Honduras"
+  },
+  {
+    "iata": "THF",
+    "airport": "Berlin (Tempelhof), Allemagne"
+  },
+  {
+    "iata": "THR",
+    "airport": "Theran (Qualeh Morgeh Airport), Iran"
+  },
+  {
+    "iata": "TIA",
+    "airport": "Tirana, Albania"
+  },
+  {
+    "iata": "TIP",
+    "airport": "Tripoli (Idris), Libye"
+  },
+  {
+    "iata": "TKU",
+    "airport": "Turku, Finlande"
+  },
+  {
+    "iata": "TLC",
+    "airport": "Toluca (A. L. Mateos), Mexique"
+  },
+  {
+    "iata": "TLE",
+    "airport": "Tulear, Madagascar"
+  },
+  {
+    "iata": "TLL",
+    "airport": "Tallinn (Yulemiste), Estonie"
+  },
+  {
+    "iata": "TLN",
+    "airport": "Toulon/Hyeres (Le Palyvestre), France"
+  },
+  {
+    "iata": "TLS",
+    "airport": "Toulouse (Blagnac), France"
+  },
+  {
+    "iata": "TLV",
+    "airport": "Tel Aviv (Ben Gurion), Israël"
+  },
+  {
+    "iata": "SMS",
+    "airport": "Ste Marie, Madagascar"
+  },
+  {
+    "iata": "TMB",
+    "airport": "Miami (Kendall-Tamiami), USA"
+  },
+  {
+    "iata": "TMM",
+    "airport": "Tamatave, Madagascar"
+  },
+  {
+    "iata": "TMP",
+    "airport": "Tampere (Pirkkala), Finlande"
+  },
+  {
+    "iata": "TMR",
+    "airport": "Tamanrasset, Algérie"
+  },
+  {
+    "iata": "TMS",
+    "airport": "Sao Tome, Sao Tome et Principe"
+  },
+  {
+    "iata": "TNG",
+    "airport": "Tanger (Boukhalef), Maroc"
+  },
+  {
+    "iata": "TNR",
+    "airport": "Antananarivo (Ivato), Madagascar"
+  },
+  {
+    "iata": "SPU",
+    "airport": "Split (Kastel), Croatie"
+  },
+  {
+    "iata": "TNT",
+    "airport": "Miami (Dade-Collier), USA"
+  },
+  {
+    "iata": "TOD",
+    "airport": "Tioman, Malaisie"
+  },
+  {
+    "iata": "TOE",
+    "airport": "Tozeur (Nefta), Tunisie"
+  },
+  {
+    "iata": "VRA",
+    "airport": "Varadero, Cuba"
+  },
+  {
+    "iata": "VRN",
+    "airport": "Verone (Villafranca), Italie"
+  },
+  {
+    "iata": "VTE",
+    "airport": "Vientiane (Wattay), Laos"
+  },
+  {
+    "iata": "VVI",
+    "airport": "Santa Cruz (Viru Viru Internat.), Bolivie"
+  },
+  {
+    "iata": "VVO",
+    "airport": "Vladivostok, Russie"
+  },
+  {
+    "iata": "VXE",
+    "airport": "Sao Vicente, Cap Vert"
+  },
+  {
+    "iata": "VXX",
+    "airport": "Mexico City (Sertel), Mexique"
+  },
+  {
+    "iata": "TSA",
+    "airport": "Taipei (Sung Shan), Taiwan"
+  },
+  {
+    "iata": "TSF",
+    "airport": "Trévise (S. Angelo), Italie"
+  },
+  {
+    "iata": "TSR",
+    "airport": "Timisoara (Giarmata), Roumanie"
+  },
+  {
+    "iata": "WAS",
+    "airport": "Washington (Metropolitan Area), USA"
+  },
+  {
+    "iata": "WAW",
+    "airport": "Varsovie (Okecie), Pologne"
+  },
+  {
+    "iata": "TXL",
+    "airport": "Berlin (Tegel), Allemagne"
+  },
+  {
+    "iata": "WDH",
+    "airport": "Windhoek (J. G. Strijdom Inter.), Namibie"
+  },
+  {
+    "iata": "WFI",
+    "airport": "Fianarantsoa, Madagascar"
+  },
+  {
+    "iata": "WGL",
+    "airport": "Baltra Island, Galapagos, Equateur"
+  },
+  {
+    "iata": "WHF",
+    "airport": "Wadi Halfa, Soudan"
+  },
+  {
+    "iata": "WIL",
+    "airport": "Nairobi (Wilson), Kenya"
+  },
+  {
+    "iata": "UAK",
+    "airport": "Narssarssuaq, Groenland"
+  },
+  {
+    "iata": "WLG",
+    "airport": "Wellington, Nouvelle-Zélande"
+  },
+  {
+    "iata": "WLS",
+    "airport": "Wallis (Hihifo), Wallis et Futuna"
+  },
+  {
+    "iata": "WMR",
+    "airport": "Mananara, Madagascar"
+  },
+  {
+    "iata": "WNT",
+    "airport": "Hierro, Canaries"
+  },
+  {
+    "iata": "WPU",
+    "airport": "Puerto Williams, Chili"
+  },
+  {
+    "iata": "WRK",
+    "airport": "Dallas (White Rock Airport), USA"
+  },
+  {
+    "iata": "WRO",
+    "airport": "Wroclaw, Pologne"
+  },
+  {
+    "iata": "WVB",
+    "airport": "Walvis Bay, Namibie"
+  },
+  {
+    "iata": "WVK",
+    "airport": "Manakara, Madagascar"
+  },
+  {
+    "iata": "UKY",
+    "airport": "Kyoto, Japon"
+  },
+  {
+    "iata": "ULC",
+    "airport": "Santiago de Chili, Chili"
+  },
+  {
+    "iata": "ULN",
+    "airport": "Ulan Bator, Mongolie"
+  },
+  {
+    "iata": "UPG",
+    "airport": "Ujung Pandang (Hasanuddin), Indonésie"
+  },
+  {
+    "iata": "XFW",
+    "airport": "Hamburg-Finkenwerder, Allemagne"
+  },
+  {
+    "iata": "XLS",
+    "airport": "Saint Louis, Sénégal"
+  },
+  {
+    "iata": "XLW",
+    "airport": "Bremen (Lemwerder), Allemagne"
+  },
+  {
+    "iata": "XQP",
+    "airport": "Quepos, Costa Rica"
+  },
+  {
+    "iata": "XXB",
+    "airport": "Manchester (Woodford), Angleterre"
+  },
+  {
+    "iata": "UUD",
+    "airport": "Ulan Ude (Mukhino), Russie"
+  },
+  {
+    "iata": "UVE",
+    "airport": "Ouvéa, Nlle Calédonie"
+  },
+  {
+    "iata": "YBC",
+    "airport": "Baie-Comeau, QC, Canada"
+  },
+  {
+    "iata": "YBD",
+    "airport": "Vancouver (New Westminster), Canada"
+  },
+  {
+    "iata": "YDA",
+    "airport": "Dawson, Canada"
+  },
+  {
+    "iata": "YDT",
+    "airport": "Vancouver (Boundary Bay), Canada"
+  },
+  {
+    "iata": "YEA",
+    "airport": "Edmonton (Metropolitan Area), Canada"
+  },
+  {
+    "iata": "YED",
+    "airport": "Edmonton (Namao Field), Canada"
+  },
+  {
+    "iata": "YEG",
+    "airport": "Edmonton Internat. Airport, Canada"
+  },
+  {
+    "iata": "YGF",
+    "airport": "Cape Town (Youngsfield), Af. du Sud"
+  },
+  {
+    "iata": "YGR",
+    "airport": "Iles de la Madeleine, Canada"
+  },
+  {
+    "iata": "VIE",
+    "airport": "Vienne (Schwechat), Autriche"
+  },
+  {
+    "iata": "YHU",
+    "airport": "Montreal (St.-Hubert), Canada"
+  },
+  {
+    "iata": "YHZ",
+    "airport": "Halifax International Airport, Canada"
+  },
+  {
+    "iata": "YIP",
+    "airport": "Detroit (Willow Run Airport), USA"
+  },
+  {
+    "iata": "YKZ",
+    "airport": "Toronto (Buttonville Airfield), Canada"
+  },
+  {
+    "iata": "YLP",
+    "airport": "Mingan, Canada"
+  },
+  {
+    "iata": "YMQ",
+    "airport": "Montréal (région métropolitaine), Canada"
+  },
+  {
+    "iata": "YMX",
+    "airport": "Montréal (Mirabel internat.), Canada"
+  },
+  {
+    "iata": "VNS",
+    "airport": "Varanasi, Inde"
+  },
+  {
+    "iata": "YND",
+    "airport": "Hull - Ottawa (Gatineau Airport), Canada"
+  },
+  {
+    "iata": "YOK",
+    "airport": "Yokohama, Japon"
+  },
+  {
+    "iata": "YOW",
+    "airport": "Ottawa (Macdonald-Cartier), Canada"
+  },
+  {
+    "iata": "YQB",
+    "airport": "Québec, QC, Canada"
+  },
+  {
+    "iata": "YRO",
+    "airport": "Ottawa (Rockcliffe Airport), Canada"
+  },
+  {
+    "iata": "YRQ",
+    "airport": "Trois-Rivieres, Canada"
+  },
+  {
+    "iata": "YSX",
+    "airport": "Halifax (Shearwater Airport), Canada"
+  },
+  {
+    "iata": "YTO",
+    "airport": "Toronto (Metropolitan Area), Canada"
+  },
+  {
+    "iata": "YTZ",
+    "airport": "Toronto Island Airport, Canada"
+  },
+  {
+    "iata": "YUL",
+    "airport": "Montréal (P. E. Trudeau), Canada"
+  },
+  {
+    "iata": "YVA",
+    "airport": "Moroni (Hahaya/Iconi), Comores"
+  },
+  {
+    "iata": "YVR",
+    "airport": "Vancouver Internat. Airport, Canada"
+  },
+  {
+    "iata": "YWG",
+    "airport": "Winnipeg Internat. Airport, Canada"
+  },
+  {
+    "iata": "YXD",
+    "airport": "Edmonton Municipal Airport, Canada"
+  },
+  {
+    "iata": "YYC",
+    "airport": "Calgary Internat. Airport, Canada"
+  },
+  {
+    "iata": "YYZ",
+    "airport": "Toronto (L. B. Pearson Int'l), Canada"
+  },
+  {
+    "iata": "YZD",
+    "airport": "Toronto (Downsview), Canada"
+  },
+  {
+    "iata": "ZAD",
+    "airport": "Zadar, Croatie"
+  },
+  {
+    "iata": "ZAG",
+    "airport": "Zagreb (Pleso), Croatie"
+  },
+  {
+    "iata": "ZAM",
+    "airport": "Zamboanga International, Philippines"
+  },
+  {
+    "iata": "ZAO",
+    "airport": "Cahors, France"
+  },
+  {
+    "iata": "ZAZ",
+    "airport": "Saragosse, Espagne"
+  },
+  {
+    "iata": "ZDJ",
+    "airport": "Berne, Suisse"
+  },
+  {
+    "iata": "ZGC",
+    "airport": "Lanzhou (Zhongchuan), Chine"
+  },
+  {
+    "iata": "ZIG",
+    "airport": "Ziguinchor, Sénégal"
+  },
+  {
+    "iata": "ZND",
+    "airport": "Zinder, Niger"
+  },
+  {
+    "iata": "ZNZ",
+    "airport": "Zanzibar, Tanzanie"
+  },
+  {
+    "iata": "ZPE",
+    "airport": "Osnabrück, Allemagne"
+  },
+  {
+    "iata": "ZRE",
+    "airport": "Rethymnon, Grèce"
+  },
+  {
+    "iata": "ZRH",
+    "airport": "Zurich (Zürich-Kloten), Suisse"
+  },
+  {
+    "iata": "ZVK",
+    "airport": "Savannakhet, Laos"
+  },
+  {
+    "iata": "LAS",
+    "airport": "Las Vegas (McCarran International), USA"
+  },
+  {
+    "iata": "MIA",
+    "airport": "Miami International Airport, USA"
+  },
+  {
+    "iata": "SEA",
+    "airport": "Seattle (Tacoma International), USA"
+  },
+  {
+    "iata": "BOS",
+    "airport": "Boston (Logan International), USA"
+  },
+  {
+    "iata": "MSP",
+    "airport": "Minneapolis/St. Paul International, USA"
+  },
+  {
+    "iata": "CLT",
+    "airport": "Charlotte (Douglas International), USA"
+  },
+  {
+    "iata": "ANC",
+    "airport": "Anchorage (Ted Stevens), Alaska, USA"
+  },
+  {
+    "iata": "PHL",
+    "airport": "Philadelphia International, USA"
+  },
+  {
+    "iata": "SAN",
+    "airport": "San Diego International, USA"
+  },
+  {
+    "iata": "TPA",
+    "airport": "Tampa International Airport, USA"
+  },
+  {
+    "iata": "PDX",
+    "airport": "Portland International Airport, USA"
+  },
+  {
+    "iata": "STT",
+    "airport": "Saint Thomas (Charlotte Amalie), Îles Vierges US"
+  },
+  {
+    "iata": "CMB",
+    "airport": "Colombo (Bandaranaike), Sri Lanka"
+  },
+  {
+    "iata": "JNB",
+    "airport": "Johannesburg (O.R. Tambo), Afrique du Sud"
+  },
+  {
+    "iata": "CPT",
+    "airport": "Cape Town International, Afrique du Sud"
+  },
+  {
+    "iata": "GRU",
+    "airport": "São Paulo (Guarulhos), Brésil"
+  },
+  {
+    "iata": "GIG",
+    "airport": "Rio de Janeiro (Galeão), Brésil"
+  },
+  {
+    "iata": "AKL",
+    "airport": "Auckland International, Nouvelle-Zélande"
+  },
+  {
+    "iata": "SYR",
+    "airport": "Syracuse, USA"
+  },
+  {
+    "iata": "RIC",
+    "airport": "Richmond International, USA"
+  },
+  {
+    "iata": "SAV",
+    "airport": "Savannah/Hilton Head International, USA"
+  },
+  {
+    "iata": "JAX",
+    "airport": "Jacksonville International, USA"
+  },
+  {
+    "iata": "MEM",
+    "airport": "Memphis International, USA"
+  },
+  {
+    "iata": "MSY",
+    "airport": "New Orleans (Louis Armstrong), USA"
+  },
+  {
+    "iata": "SAT",
+    "airport": "San Antonio International, USA"
+  },
+  {
+    "iata": "AUS",
+    "airport": "Austin-Bergstrom International, USA"
+  },
+  {
+    "iata": "OKC",
+    "airport": "Oklahoma City (Will Rogers), USA"
+  },
+  {
+    "iata": "TUL",
+    "airport": "Tulsa International Airport, USA"
+  },
+  {
+    "iata": "LIT",
+    "airport": "Little Rock National Airport, USA"
+  },
+  {
+    "iata": "BNA",
+    "airport": "Nashville International, USA"
+  },
+  {
+    "iata": "CLE",
+    "airport": "Cleveland (Hopkins International), USA"
+  },
+  {
+    "iata": "CVG",
+    "airport": "Cincinnati/Northern Kentucky International, USA"
+  },
+  {
+    "iata": "IND",
+    "airport": "Indianapolis International, USA"
+  },
+  {
+    "iata": "MKE",
+    "airport": "Milwaukee (Mitchell International), USA"
+  },
+  {
+    "iata": "DSM",
+    "airport": "Des Moines International, USA"
+  },
+  {
+    "iata": "OMA",
+    "airport": "Omaha (Eppley Airfield), USA"
+  },
+  {
+    "iata": "ICT",
+    "airport": "Wichita (Dwight D. Eisenhower), USA"
+  },
+  {
+    "iata": "ABQ",
+    "airport": "Albuquerque International Sunport, USA"
+  },
+  {
+    "iata": "ELP",
+    "airport": "El Paso International, USA"
+  },
+  {
+    "iata": "TUS",
+    "airport": "Tucson International Airport, USA"
+  },
+  {
+    "iata": "SLC",
+    "airport": "Salt Lake City International, USA"
+  },
+  {
+    "iata": "BOI",
+    "airport": "Boise Airport, USA"
+  },
+  {
+    "iata": "BIL",
+    "airport": "Billings Logan International, USA"
+  },
+  {
+    "iata": "FAR",
+    "airport": "Fargo (Hector International), USA"
+  },
+  {
+    "iata": "GFK",
+    "airport": "Grand Forks International, USA"
+  },
+  {
+    "iata": "RAP",
+    "airport": "Rapid City Regional Airport, USA"
+  },
+  {
+    "iata": "CHS",
+    "airport": "Charleston International, USA"
+  },
+  {
+    "iata": "CAE",
+    "airport": "Columbia Metropolitan Airport, USA"
+  },
+  {
+    "iata": "GSP",
+    "airport": "Greenville-Spartanburg International, USA"
+  },
+  {
+    "iata": "SAV",
+    "airport": "Savannah/Hilton Head International, USA"
+  },
+  {
+    "iata": "TYS",
+    "airport": "Knoxville (McGhee Tyson), USA"
+  },
+  {
+    "iata": "CHA",
+    "airport": "Chattanooga Metropolitan Airport, USA"
+  },
+  {
+    "iata": "TRI",
+    "airport": "Tri-Cities Regional Airport, USA"
+  },
+  {
+    "iata": "LEX",
+    "airport": "Lexington (Blue Grass Airport), USA"
+  },
+  {
+    "iata": "SDF",
+    "airport": "Louisville International Airport, USA"
+  },
+  {
+    "iata": "EVV",
+    "airport": "Evansville Regional Airport, USA"
+  },
+  {
+    "iata": "FWA",
+    "airport": "Fort Wayne International, USA"
+  },
+  {
+    "iata": "SBN",
+    "airport": "South Bend Regional Airport, USA"
+  },
+  {
+    "iata": "GRR",
+    "airport": "Grand Rapids (Kent County), USA"
+  },
+  {
+    "iata": "LAN",
+    "airport": "Lansing (Capital City Airport), USA"
+  },
+  {
+    "iata": "FNT",
+    "airport": "Flint (Bishop International), USA"
+  },
+  {
+    "iata": "SAG",
+    "airport": "Saginaw (MBS International), USA"
+  },
+  {
+    "iata": "DLH",
+    "airport": "Duluth International Airport, USA"
+  },
+  {
+    "iata": "RST",
+    "airport": "Rochester International Airport, USA"
+  },
+  {
+    "iata": "MAD",
+    "airport": "Madison (Dane County), USA"
+  },
+  {
+    "iata": "ATW",
+    "airport": "Appleton (Outagamie County), USA"
+  },
+  {
+    "iata": "GRB",
+    "airport": "Green Bay (Austin Straubel), USA"
+  },
+  {
+    "iata": "EAU",
+    "airport": "Eau Claire Regional Airport, USA"
+  },
+  {
+    "iata": "LSE",
+    "airport": "La Crosse Regional Airport, USA"
+  },
+  {
+    "iata": "CID",
+    "airport": "Cedar Rapids (Eastern Iowa), USA"
+  },
+  {
+    "iata": "DBQ",
+    "airport": "Dubuque Regional Airport, USA"
+  },
+  {
+    "iata": "SUX",
+    "airport": "Sioux City (Colonel Bud Day Field), USA"
+  },
+  {
+    "iata": "FSD",
+    "airport": "Sioux Falls Regional Airport, USA"
+  },
+  {
+    "iata": "PIR",
+    "airport": "Pierre Regional Airport, USA"
+  },
+  {
+    "iata": "ISN",
+    "airport": "Williston Basin International, USA"
+  },
+  {
+    "iata": "MOT",
+    "airport": "Minot International Airport, USA"
+  },
+  {
+    "iata": "BIS",
+    "airport": "Bismarck Municipal Airport, USA"
+  },
+  {
+    "iata": "GGG",
+    "airport": "East Texas Regional Airport, USA"
+  },
+  {
+    "iata": "TYR",
+    "airport": "Tyler Pounds Regional Airport, USA"
+  },
+  {
+    "iata": "SHV",
+    "airport": "Shreveport Regional Airport, USA"
+  },
+  {
+    "iata": "MLU",
+    "airport": "Monroe Regional Airport, USA"
+  },
+  {
+    "iata": "LFT",
+    "airport": "Lafayette Regional Airport, USA"
+  },
+  {
+    "iata": "LCH",
+    "airport": "Lake Charles Regional Airport, USA"
+  },
+  {
+    "iata": "BTR",
+    "airport": "Baton Rouge Metropolitan Airport, USA"
+  },
+  {
+    "iata": "AEX",
+    "airport": "Alexandria International Airport, USA"
+  },
+  {
+    "iata": "MOB",
+    "airport": "Mobile Regional Airport, USA"
+  },
+  {
+    "iata": "HSV",
+    "airport": "Huntsville International Airport, USA"
+  },
+  {
+    "iata": "BHM",
+    "airport": "Birmingham (Shuttlesworth International), USA"
+  },
+  {
+    "iata": "MGM",
+    "airport": "Montgomery Regional Airport, USA"
+  },
+  {
+    "iata": "DHN",
+    "airport": "Dothan Regional Airport, USA"
+  }
+]

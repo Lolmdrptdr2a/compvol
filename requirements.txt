@@ -1,0 +1,4 @@
+amadeus
+streamlit
+requests
+pydeck

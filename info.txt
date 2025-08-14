@@ -1,0 +1,2 @@
+https://airlabs.co/img/airline/m/AA.png pour les logos des compagnies
+py -m streamlit run C://Users//Rosas//Desktop//Anglais//Vol//programmes//website.py
