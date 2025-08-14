@@ -14,7 +14,7 @@ def erreur():
         st.rerun()
 
 
-with open("C://Users//Rosas//Desktop//Anglais//Vol//programmes//Code-IATA-villes.json", encoding="utf-8") as f:
+with open("Code-IATA-villes.json", encoding="utf-8") as f:
     airports = json.load(f)
 
 amadeus = Client(client_id = client_id,client_secret = client_secret)
@@ -131,5 +131,6 @@ if st.session_state.page == "resultats":
 if st.button("📡 Mode Flighty", key="btn_mode_flighty"):
     st.session_state.page = "flighty"
     st.rerun()
+
 
 
