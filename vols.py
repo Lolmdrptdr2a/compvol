@@ -1,8 +1,8 @@
 from amadeus import Client, ResponseError
 import requests
 
-client_id='tiws0QnE2yKrC8ZFQFDBGpXAm59YM03a',
-client_secret='IleXqznvvqkdY3Fg'
+client_id='468GmbiAYRBvjGl7NKHYUZmjYEaskSQt',
+client_secret='ePFGSzA4lkQYvzeF'
 
 def tt_():
     amadeus = Client(
