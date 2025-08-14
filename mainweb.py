@@ -66,7 +66,7 @@ with b1:
     if len(depart)==3:
        dep = iata_dict[depart]
     else:
-        dep = depart
+        dep = airport_dict[depart]
 with b2:
     liste = [""] + options
     if depart != "":
@@ -131,6 +131,7 @@ if st.session_state.page == "resultats":
 if st.button("📡 Mode Flighty", key="btn_mode_flighty"):
     st.session_state.page = "flighty"
     st.rerun()
+
 
 
 
