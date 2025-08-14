@@ -8,7 +8,7 @@ import json
 # -----------------------------
 # Configuration
 # -----------------------------
-LOCAL_IATA_FILE = "C://Users//Rosas//Desktop//Anglais//Vol//programmes//airports.json"
+LOCAL_IATA_FILE = "airports.json"
 
 def recherche(token, depart, arrivee, ar, adultes, enfant, esc, classe, date_dep, date_ret):
     headers = {"Authorization": f"Bearer {token}"}
@@ -273,3 +273,4 @@ def page_resultats_vols(data):
         st.info(f"ℹ️ Affichage des 10 meilleures offres sur {nb_resultats} résultats disponibles.")
     for index, vol in enumerate(vols_a_afficher):
         afficher_bloc_vol(vol, dictionaries, index)
+
