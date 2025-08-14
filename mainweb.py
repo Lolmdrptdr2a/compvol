@@ -102,8 +102,8 @@ if st.button("🔍 Rechercher"):
         erreur()
     else:
         if len(depart)!=3:
-            depart = airport_dict[depart]
-        print(depart)
+            depart = f'{airport_dict[depart]}'
+        
         
         if escale:
             escale = 'true'
@@ -135,6 +135,7 @@ if st.session_state.page == "resultats":
 if st.button("📡 Mode Flighty", key="btn_mode_flighty"):
     st.session_state.page = "flighty"
     st.rerun()
+
 
 
 
